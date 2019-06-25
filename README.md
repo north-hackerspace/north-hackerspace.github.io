@@ -1,16 +1,20 @@
 # La página web de North Hackerspace, Madrid
 
-Mentes tecnológicas de Madrid mejorando la vida de todos.
-
 En North Hackerspace nos reunimos con el propósito de diversión y experimentación con la tecnología.
 
 ## ¡Vente!
-Todos están invitados a North Hackerspace. Escribe tus primeras líneas de código aquí o madura tu hobby.
+Todos están invitados a North Hackerspace. Escribe tus primeras líneas de código aquí o madura tus habilidades con otras personas.
+
+## Algunos proyectos en los que estamos involucrados
+* Noggin. Un gestor de conocimiento, que pone tu ordenador al servicio de tu aprendizaje. [Aprende más.](https://github.com/north-hackerspace/noggin)
+* Odo. Una herramienta de productividad multiparadigma, infinitamente ajustable. [Aprende más.](https://github.com/north-hackerspace/odo)
+* Experimentos en el espectro radioeléctrico. 
+* Los que presentes
 
 ## To do's
-* Construir MWE página en Jekyll.
+* Pack de bienvenida a miembros.
 * Directrices y constitución de asociación cuando se alcance masa crítica.
 * Versión en inglés de página.
 
 ## Autores
-* Jaime Gallego (tri0d, EA4HCS).
+* [Jaime Gallego](https://github.com/gallegojaime) (tri0d). 
