@@ -9,7 +9,6 @@ Todos están invitados a North Hackerspace. Escribe tus primeras líneas de cód
 * Noggin. Un gestor de conocimiento, que pone tu ordenador al servicio de tu aprendizaje. [Aprende más.](https://github.com/north-hackerspace/noggin)
 * Odo. Una herramienta de productividad multiparadigma, infinitamente ajustable. [Aprende más.](https://github.com/north-hackerspace/odo)
 * Experimentos en el espectro radioeléctrico. 
-* Los que presentes
 
 ## To do's
 * Pack de bienvenida a miembros.
