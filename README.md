@@ -1,6 +1,6 @@
 # La página web de North Hackerspace, Madrid
 
-En North Hackerspace nos reunimos con el propósito de diversión y experimentación con la tecnología.
+Nos reunimos con el propósito de diversión y experimentación con la tecnología.
 
 ## ¡Vente!
 Todos están invitados a North Hackerspace. Escribe tus primeras líneas de código aquí o madura tus habilidades con otras personas.
