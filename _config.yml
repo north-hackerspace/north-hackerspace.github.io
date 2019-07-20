@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 logo: media/north-hackerspace-banner.png
+name: North Hackerspace
+description: El grupo de experimentación tecnológica de Madrid.
+google_analytics: UA-144188557-1
