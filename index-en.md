@@ -1,7 +1,3 @@
-[Home](./index-en)
-[Welcome](./welcome)
-[Why](./why)
-[Contact](./contact)
 [Español](/)
 
 # North Hackerspace's website

@@ -1,7 +1,3 @@
-[Inicio](/)
-[Bienvenido](./bienvenido)
-[Por qué](./por-que)
-[Contacto](./contacto)
 [English](./index-en)
 
 # La página web de North Hackerspace, Madrid
