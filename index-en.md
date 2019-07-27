@@ -9,5 +9,4 @@ Everyone is invited to join the activities of North Hackerspace. Write your firs
 
 ## Some projects we're involved in
 * Noggin. A knowledge manager, which leverages your computer to improve your skills and share them with the world. [Learn more.](./noggin-en)
-* Odo. A multiparadigm productivity tool, myriad adjustable. [Learn more.](./odo-en)
 * Amateur radio/RF experimentation. [Learn more.](./ham-radio) 
