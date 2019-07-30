@@ -1,5 +1,3 @@
-[English](./index-en)
-
 # La página web de North Hackerspace, Madrid
 
 Nos reunimos con el propósito de diversión y experimentación con la tecnología.
