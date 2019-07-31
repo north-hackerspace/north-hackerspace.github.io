@@ -2,7 +2,7 @@
 
 Seguramente tengas curiosidad en tecnología de alguna clase. ¡Te queremos aquí! Siempre estamos buscando nuevas personas en nuestro pequeño grupo.
 
-Nos reunimos en el [C.S. La Piluka](https://osm.org/go/b_NjowE~0?node=4853982631) 
+Nos reunimos en el [C.S. La Piluka](https://osm.org/go/b_NjowE~0?node=4853982631), en el Barrio del Pilar, Madrid.
 
 Contáctanos mediante [email](./contacto) y únete a nuestro [grupo de Meetup](https://www.meetup.com/es-ES/North-Hackerspace/) para estar al tanto de nuestros eventos.
 
