@@ -1,7 +1,9 @@
 # Contacta con North Hackerspace
 
-Ten una línea directa a la organización para cualquier cuestión o comentario.
+Ten una línea directa a los organizadores a través de email.
 
-organizacion@northhackerspace.org
+[organizacion@northhackerspace.org](mailto:organizacion@northhackerspace.org)
 
-_Memes are allowed too if they're dank._
+Contáctanos también si deseas la información de algún miembro en particular.
+
+Tenemos también cuenta de Twitter en la que ocasionalmente proporcionaremos información: [@northhackers](https://twitter.com/northhackers)

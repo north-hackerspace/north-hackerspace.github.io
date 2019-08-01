@@ -1,10 +1,10 @@
-# La página web de North Hackerspace, Madrid
+# ¡Bienvenido!
 
-Nos reunimos con el propósito de diversión y experimentación con la tecnología.
+North Hackerspace, Madrid, se reúne con el propósito de experimentación tecnológica de todas clases.
 
 ## ¡Vente!
-Todos están invitados a North Hackerspace. Escribe tus primeras líneas de código aquí o madura tus habilidades con otras personas.
+Todos los interesados están invitados a North Hackerspace, sin importar el nivel. Vente a cualquier evento aunque no seas miembro, y descubre lo que hacemos. [Descubre cómo unirte y por qué.](./unete)
 
 ## Algunos proyectos en los que estamos involucrados
-* Noggin. Un gestor de conocimiento, que pone tu ordenador al servicio de tu aprendizaje. [Aprende más.](./noggin)
+* Noggin. Gestión del conocimiento, que pone tu ordenador al servicio de tu aprendizaje. [Aprende más.](./noggin)
 * Experimentos en el espectro radioeléctrico. [Aprende más.](./radioaficion) 
