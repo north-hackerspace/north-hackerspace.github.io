@@ -1,3 +1,6 @@
+---
+language: es
+---
 # Unirse a North Hackerspace
 
 Seguramente tengas curiosidad en tecnología de alguna clase. ¡Te queremos aquí! Siempre estamos buscando nuevas personas en nuestro pequeño grupo.

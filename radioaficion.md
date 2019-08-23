@@ -1,3 +1,6 @@
+---
+language: es
+---
 # Radioafición
 
 ¡Llamando a todos los interesados en tecnología de ondas! North Hackerspace es _el_ sitio en Madrid para experimentar con radios, modos digitales, y más.

@@ -1,3 +1,7 @@
+---
+language: es
+---
+
 # Noggin
 
 Noggin es una capa y modelo que permite la gestión de conocimientos y habilidades como datos.  

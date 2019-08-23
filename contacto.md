@@ -1,3 +1,6 @@
+---
+language: es
+---
 # Contacta con North Hackerspace
 
 Ten una línea directa a los organizadores a través de email.

@@ -1,3 +1,6 @@
+---
+language: es
+---
 # ¡Bienvenido!
 
 North Hackerspace, Madrid, se reúne con el propósito de experimentación tecnológica de todas clases.

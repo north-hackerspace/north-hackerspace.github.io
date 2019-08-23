@@ -1,3 +1,4 @@
+{% if page.language == "es" %}
 <nav>
 	<a href="/">Inicio</a>
 	{% comment %} <a href="/blog">Blog</a> {% endcomment %}
@@ -5,4 +6,17 @@
 	<a href="/radioaficion">Radioafición</a>
 	<a href="/unete">Únete</a>
 	<a href="/contacto">Contacto</a>
+	<a href="/index-en">English</a>
 </nav>
+{% endif %}
+{% if page.language == "en" %}
+<nav>
+	<a href="/index-en">Homepage</a>
+	{% comment %} <a href="/blog">Blog</a> {% endcomment %}
+	<a href="/noggin-en">Noggin</a>
+	<a href="/ham-radio">Amateur radio</a>
+	<a href="/join">Join</a>
+	<a href="/contact">Contact us</a>
+	<a href="/">Español</a>
+</nav>
+{% endif %}

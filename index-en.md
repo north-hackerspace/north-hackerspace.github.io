@@ -1,10 +1,11 @@
-[Español](/)
-
-# North Hackerspace's website
+---
+language: en
+---
+# Welcome!
 
 We come together with the aim of having fun and experimenting with all sorts of technology.
 
-## Come and join!
+## Come and join
 Everyone is invited to join the activities of North Hackerspace. Write your first lines of code over here, or improve your skills alongside other people. 
 
 ## Some projects we're involved in
