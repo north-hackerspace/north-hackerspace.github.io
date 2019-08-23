@@ -7,7 +7,7 @@ language: es
 
 ## Cosas chulas
 - Satélites desde los que puedes descargar imágenes en órbita.
-- Repetidores cerca y lejos, a los que te puedes conectar por radio o internet.
+- Repetidores cerca y lejos, con los que puedes expandir tu alcance a todo el mundo.
 - Rebotar radio desde la ionosfera, la superficie lunar, o meteoritos.
 - Probar y hackear tecnologías _wireless_.
 - Crearte protocolos de comunicación, tener bandas para experimentar, y jugar a ser teleco sin todo el papeleo.

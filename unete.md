@@ -13,7 +13,7 @@ Contáctanos mediante [email](./contacto) y únete a nuestro [grupo de Meetup](h
 
 - No nos importa tu nivel. Te haremos sentir bienvenido.
 - Nos interesa gran variedad de tecnologías. Las basadas en programación, en radio, abstracciones matemáticas como algoritmos...
-- Los miembros pueden elegir las actividades que se harán - no sólo sugerir. Por voto presencial en las reuniones o por correo electrónico firmado. 
+- Los miembros pueden elegir las actividades que se harán - no sólo sugerir. Por voto presencial en las reuniones o por comunicaciones seguras. 
 
 ## Gente que buscamos activamente
 Contacta con [Organización](./contacto) si te interesa. En ningún caso es demasiado trabajo.
