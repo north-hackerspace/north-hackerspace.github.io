@@ -18,6 +18,6 @@ Because it is cool that with a simple antenna, the air around you turns into an 
 ## The license
 Transmitting requires an operator's license - and as such, you'll ahve to study electronics, physics, and Spanish regulations for an exam. It is worth it, and not that hard - perhaps we can help you in your studies?
 
-Ask [Jaime Gallego (EA4HCS)](mailto:jaimeg@northhackerspace.org) if you are interested in obtaining the license.
+Ask us anytime if you are interested in obtaining the license.
 
 

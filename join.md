@@ -8,7 +8,7 @@ Surely you've got interest in some kinds of technology. We want you here! In thi
 
 We meet in the [C.S. La Piluka](https://osm.org/go/b_NjowE~0?node=4853982631), located within the Barrio del Pilar, Madrid, Spain. 
 
-Contact us through [email](./contact) and join our [Meetup group](https://www.meetup.com/es-ES/North-Hackerspace/) to be aware of our newest events.
+Contact us through [email](./contact) or [Telegram](https://t.me/northhackerspace), and join our [Meetup group](https://www.meetup.com/es-ES/North-Hackerspace/) to be aware of our newest events.
 
 ## Reasons to join us
 - We do not care about your level. We'll make you feel welcome.
@@ -18,6 +18,5 @@ Contact us through [email](./contact) and join our [Meetup group](https://www.me
 ## People we're looking for
 Contact [the organizers](./contact) if you're interested in any role. None of them is too much of a burden.
 
-- Assistant to organize activities. Right now there is only one person in the managerial level. North Hackerspace would benefit of another person willing to share tasks and attend meetings.
-- Maintenance of website and internal services. An experienced software engineer can improve our tools and suggest ways of making our environment more sustainable. We like to improve in what we do, and with your experience and opinions, you can be the force of change.
+- Maintenance of website and internal services. An experienced software engineer can improve our tools and suggest ways of making our environment more sustainable. 
 - Marketing. We need more members in North Hackerspace; for us, it's essential to have someone with experience on increasing our conversion rates and spread awareness through Madrid.
