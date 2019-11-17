@@ -3,3 +3,10 @@ name: North Hackerspace
 title: North Hackerspace
 description: El grupo de experimentación tecnológica de Madrid.
 google_analytics: UA-144188557-1
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      language: es
