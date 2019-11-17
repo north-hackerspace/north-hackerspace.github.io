@@ -1,8 +1,12 @@
 - name: Bienvenido
   link: /
-- name: Únete
-  link: /unete.md
-- name: contacto
-  link: contacto.md
 - name: Blog
-  link: /blog.html
+  link: blog.html
+- name: Noggin
+  link: noggin.md
+- name: Radioafición
+  link: radioaficion.md
+- name: Únete
+  link: unete.md
+- name: Contacto
+  link: contacto.md
