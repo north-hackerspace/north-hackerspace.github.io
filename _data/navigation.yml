@@ -1,8 +1,8 @@
--name: Bienvenido
-link: /
-- name: Unete
-link: /unete.md
--name: contacto
-link: contacto.md
--name: Blog
-link: /blog.html
+- name: Bienvenido
+  link: /
+- name: Únete
+  link: /unete.md
+- name: contacto
+  link: contacto.md
+- name: Blog
+  link: /blog.html
