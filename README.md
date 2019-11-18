@@ -14,6 +14,7 @@ Todos están invitados a North Hackerspace. Escribe tus primeras líneas de cód
 * Versión en inglés de página.
 
 ## Autores
-* [Jaime Gallego](https://github.com/gallegojaime) (tri0d). 
+* [Jaime Gallego](https://github.com/gallegojaime) (tri0d).
+* [Lobezna](https://github.com/Lobezna).
 
 Página construida con Jekyll en GitHub Pages.
